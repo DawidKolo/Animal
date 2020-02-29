@@ -20,8 +20,9 @@ public class Main {
             zwierze.get(i).picie();
 
             System.out.println();
-            
+
         }
+        System.out.println("Zmiany, zmiany, zmiany");
     }
 }
 
