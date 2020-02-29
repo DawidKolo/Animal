@@ -22,7 +22,7 @@ public class Main {
             System.out.println();
 
         }
-        System.out.println("Zmiany, zmiany, zmiany");
+        System.out.println("Zmiany, zmiany, ");
     }
 }
 
