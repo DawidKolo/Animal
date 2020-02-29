@@ -34,6 +34,8 @@ public class Main {
 
         System.out.println(" Teraz w drugą stronę");
 
+        System.out.println(" I tak można się bawić");
+
 
     }
 }
