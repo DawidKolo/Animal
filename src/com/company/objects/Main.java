@@ -22,7 +22,8 @@ public class Main {
             System.out.println();
 
         }
-        System.out.println("Zmiany, zmiany, ");
+        System.out.println("Zmiany, zmiany");
+        System.out.println("Waga 400 kg");
     }
 }
 
