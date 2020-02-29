@@ -25,6 +25,13 @@ public class Main {
         System.out.println("Zmiany, zmiany");
         System.out.println("Waga 400 kg");
         System.out.println("zmiana na kopii");
+
+        System.out.println("********************************************");
+        System.out.println("*                                          *");
+        System.out.println("* Zaliczenie GIT - systemy kontroli wersji *");
+        System.out.println("*                                          *");
+        System.out.println("********************************************");
+
     }
 }
 
