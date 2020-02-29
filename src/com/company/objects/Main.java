@@ -13,32 +13,15 @@ public class Main {
         zwierze.add(new Snake("Syczek", 2));
         zwierze.add(new Chomik("Okruszek", 2));
 
+        for(int i=0;i<4;i++) {
+            zwierze.get(i).przywitanie();
+            zwierze.get(i).jedzenie();
+            zwierze.get(i).skok();
+            zwierze.get(i).picie();
 
-        zwierze.get(0).przywitanie();
-        zwierze.get(0).jedzenie();
-        zwierze.get(0).skok();
-        zwierze.get(0).picie();
-
-        System.out.println();
-
-        zwierze.get(1).przywitanie();
-        zwierze.get(1).jedzenie();
-        zwierze.get(1).skok();
-        zwierze.get(1).picie();
-
-        System.out.println();
-
-        zwierze.get(2).przywitanie();
-        zwierze.get(2).jedzenie();
-        zwierze.get(2).skok();
-        zwierze.get(2).picie();
-
-        System.out.println();
-
-        zwierze.get(3).przywitanie();
-        zwierze.get(3).jedzenie();
-        zwierze.get(3).skok();
-        zwierze.get(3).picie();
+            System.out.println();
+            
+        }
     }
 }
 
