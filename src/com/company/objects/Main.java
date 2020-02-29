@@ -36,6 +36,8 @@ public class Main {
 
         System.out.println(" I tak można się bawić");
 
+        System.out.println("Zaliczenie GIT4");
+
 
     }
 }
